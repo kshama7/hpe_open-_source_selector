@@ -86,3 +86,18 @@ Clone or download the project repository.
   ```
 
 If the browser doesn't open automatically, you can access the React app by visiting http://localhost:3000 in your web browser.
+
+
+Sample Input:
+
+![os1](https://github.com/kshama7/hpe_open-_source_selector/assets/75107843/d0c20a89-c585-47aa-bcb4-6e589f2ae5d5)
+
+Sample Output:
+
+![os2](https://github.com/kshama7/hpe_open-_source_selector/assets/75107843/3a49df73-8483-4e59-a19b-9fafd95f5cae)
+
+![os3](https://github.com/kshama7/hpe_open-_source_selector/assets/75107843/fba10bbd-d38f-4460-95d9-ff5d9e41340d)
+
+
+
+
